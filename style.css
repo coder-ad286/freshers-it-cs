@@ -1,0 +1,94 @@
+*{
+    font-family:'Poppins',sans-serif ;
+    
+    color: #fff;
+}
+section{
+    background-image: linear-gradient(to right top, #fd5d93, #ff6b7b, #ff8064, #ff9851, #fcb045);
+  
+}
+
+
+.title{
+    font-family: 'Dancing Script', cursive;
+}
+p{
+    text-align: center;
+    font-weight: 50px;
+    
+
+}
+.img{
+    
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    border-radius: 50px !important;
+    
+}
+img{
+    border-radius:40px !important;
+    padding: 2px;
+}
+.card{
+     padding: 0% !important;
+    border: none !important;
+    padding-top: 0px !important;
+    padding-bottom: 0% !important;
+    background-color: rgba(255, 255, 255, 0); 
+    background-image: linear-gradient(to right top, #191714, #39190b, #5e0523, #70005d, #2234ae);
+ border-radius: 40px !important;
+}
+    
+
+.bdy h2{
+    text-shadow: 0 0 20px blue;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+
+.welcome h3{
+        
+}
+.venue p{
+    margin-top: 5px;
+    border: none;
+    color: #fff !important;
+}
+.container{
+    text-shadow: 0 0 10000px blue !important;
+    padding: 50px;
+    background-image: linear-gradient(to right top, #191714, #39190b, #5e0523, #70005d, #2234ae);
+    backdrop-filter: blur(80px);
+
+}
+.card-body{
+    padding: 0px !important;
+    margin-top: 20px !important;
+    font-size: 0px !important;
+}
+\
+img{
+
+    position: relative;
+    overflow: hidden;
+    z-index: 111;
+    object-fit: cover;
+    border-radius: 50px;
+    width: 100%;
+    background-image: linear-gradient(to right top, #0d324d, #015f81, #0092b2, #00c7dd, #1bffff);
+    background-image: linear-gradient(to right top, #e91e63, #fc4c4b, #ff7532, #ff9e18, #f1c40f);insta;
+    background-image: linear-gradient(to right top, #3498db, #4e8bda, #6a7dd4, #846cc8, #9b59b6);fb
+    background-image: linear-gradient(to right top, #1abc9c, #5bb66b, #8cab3b, #bb9914, #e67e22);
+    background-image: linear-gradient(to right top, #9b59b6, #b64ba9, #cd3b96, #de2a7e, #e91e63);
+    background-image: linear-gradient(to right top, #fd5d93, #ff6b7b, #ff8064, #ff9851, #fcb045);
+    background-image: linear-gradient(to right top, #fd5d93, #ff6b7b, #ff8064, #ff9851, #fcb045);
+    background-image: linear-gradient(to right top, #e74c3c, #ee6033, #f27428, #f4881d, #f39c12);
+    Rowdies
+    Cinzel Decorative
+    Marcellus SC
+Designed by Astigmatic
+Oleo Script Swash Caps
+
+}
